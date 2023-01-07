@@ -1,8 +1,8 @@
 import pandas
 import requests
 
-# API_KEY = "69f04e4613056b159c2761a9d9e664d2"
-API_KEY = "98b5e3cac050e613bde5e9c15a2bbfca"
+# API_KEY = "insert api key here"
+API_KEY = "insert api key here"
 LAT = 32.21975922020592
 LON = -110.86531247903224
 PART = "current,minutely,daily,alerts"
